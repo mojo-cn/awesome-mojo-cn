@@ -5,6 +5,11 @@ Mojo 生态资源推荐
 
 - ✅ https://github.com/ego/awesome-mojo
 
+> topic:
+
+- ✅ https://github.com/topics/mojo
+- ✅ https://github.com/topics/mojolang
+
 ## Mojo 中文社区
 
 - 微信群:
