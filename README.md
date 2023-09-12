@@ -13,6 +13,9 @@ Mojo 生态资源推荐
 
 - ✅ [《Mojo 编程学习指南》](https://trybetter.larksuite.com/wiki/APobw4BNxiU8JgkwtUpucFD0stc)
 
+> 文章:
+
+- ✅ [比C语言还快20%！Mojo首个大模型开放下载，性能达Python版250倍](https://mp.weixin.qq.com/s/_tfMPdaIo6LPDcTXqpy4xw)
 
 
 
@@ -23,10 +26,16 @@ Mojo 生态资源推荐
 
 - TODO
 
+#### libC/FFI:
+
+- ✅ https://github.com/crisadamo/mojo-libc
+
+
 ### Web 框架
 
 - TODO
 
 ### AI 生态
 
-- TODO
+- ✅ https://github.com/tairov/llama2.mojo
+
