@@ -21,6 +21,8 @@ Mojo 生态资源推荐
 ## Mojo 教程
 
 - ✅ [《Mojo 编程学习指南》](https://trybetter.larksuite.com/wiki/APobw4BNxiU8JgkwtUpucFD0stc)
+- ✅ https://mojodojo.dev/guides/
+
 
 > 文章:
 
