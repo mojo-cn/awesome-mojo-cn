@@ -1,6 +1,10 @@
 # awesome-mojo-cn
 Mojo 生态资源推荐
 
+## Related:
+
+- ✅ https://github.com/ego/awesome-mojo
+
 ## Mojo 中文社区
 
 - 微信群:
