@@ -36,7 +36,16 @@ Mojo 生态资源推荐
 
 #### I/O 序列化
 
+##### json
+
+- https://github.com/f0cii/sonic-mojo
+    - sonic-rs ffi binding 库, 性能 4.2 倍 `EmberJson`
+    - 🇨🇳 国人项目
 - ✅ https://github.com/bgreni/EmberJson
+
+##### csv
+
+- ✅ https://github.com/msaelices/mojo-csv
 
 #### 网络协议
 
