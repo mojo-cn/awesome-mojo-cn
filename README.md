@@ -54,6 +54,12 @@ Mojo 生态资源推荐
 
 ##### FFI with Rust:
 
+> ffi tools:
+
+- ✅ https://github.com/f0cii/diplomat
+    - https://github.com/rust-diplomat/diplomat
+- ✅ https://github.com/mozilla/uniffi-rs
+
 > rust 基础库：（参考 FFI Binding 给 Mojo 使用）
 
 - ✅ https://github.com/cloudwego/sonic-rs
