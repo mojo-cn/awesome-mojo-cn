@@ -16,6 +16,9 @@ Mojo 生态资源推荐
 ## 🔥 Mojo 生态 & 组件 & 库
 
 
+- ✅ https://github.com/phomola/mojolibs
+    - 一些基础库, ffi js-core
+
 ### 第三方标准库(移植)
 
 - ✅ https://github.com/thatstoasty/gojo
